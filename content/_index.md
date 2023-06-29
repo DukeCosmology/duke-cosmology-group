@@ -10,7 +10,7 @@ sections:
       title: |
         Duke Cosmology Group
       image:
-        filename: welcome.jpg
+        filename: dukecosmo1.png
       text: |
         <br>
 
