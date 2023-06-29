@@ -8,15 +8,14 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Duke Cosmology Group
       image:
         filename: welcome.jpg
       text: |
         <br>
-        
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
-  
+
+        The **Duke Group** has been a center of excellence for cosmology research, teaching, and practice since its founding in 2018.
+
   - block: collection
     content:
       title: Latest News
@@ -35,7 +34,7 @@ sections:
     design:
       view: card
       columns: '1'
-  
+
   - block: markdown
     content:
       title:
@@ -44,8 +43,8 @@ sections:
     design:
       columns: '1'
       background:
-        image: 
-          filename: coders.jpg
+        image:
+          filename: dukecosmo2.png
           filters:
             brightness: 1
           parallax: false
@@ -55,7 +54,7 @@ sections:
       spacing:
         padding: ['20px', '0', '20px', '0']
       css_class: fullscreen
-  
+
   - block: markdown
     content:
       title:
