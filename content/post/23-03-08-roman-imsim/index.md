@@ -1,6 +1,7 @@
 ---
 title: Roman simulations led by Troxel featured on NASA website
 date: 2023-03-08
+author: Michael Troxel
 ---
 
 The joint Roman-Rubin DC2 image simulations led by Prof. Troxel got published today and was featured on the NASA website.
