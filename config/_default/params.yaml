@@ -7,9 +7,9 @@
 
 appearance:
   theme_day: minimal
-  theme_night:
+  theme_night: minimal
   font: native
-  font_size: L
+  font_size: M
 
 # SEO
 
@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Arun Kannawadi. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -70,7 +70,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/arunkannawadi/duke-cosmology-group'
     content_dir: content
     branch: main
   avatar:
