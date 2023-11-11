@@ -65,7 +65,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Principal Investigators
+  - Faculty
 ---
 
 Lead Type Ia SN cosmology studies for Pan-STARRS, DES, LSST and WFIRST.  Work on new image analysis techniques and finding optical counterparts to gravitational waves.
