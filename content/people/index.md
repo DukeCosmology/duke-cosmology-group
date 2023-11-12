@@ -13,7 +13,7 @@ sections:
       user_groups:
           - Faculty
           - Researchers
-          - Grad Students
+          - Graduate Students
           - Undergraduates
           - Visitors
           - Alumni
