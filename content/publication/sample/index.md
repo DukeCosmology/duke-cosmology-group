@@ -1,7 +1,40 @@
 ---
 title: 'KiDS-1000 Cosmology: Multi-probe weak gravitational lensing and spectroscopic galaxy clustering constraints'
 authors:
+  - Catherine Heymans
+  - Tilman Tröster
+  - Marika Asgari
+  - Chris Blake
+  - Hendrik Hildebrandt
+  - Benjamin Joachimi
+  - Konrad Kuijken
+  - Chieh-An Lin
+  - Ariel G. Sánchez
+  - Jan Luca van den Busch
+  - Angus H. Wright
+  - Alexandra Amon
+  - Maciej Bilicki
+  - Jelte T. A. de Jong
+  - Martin Crocce
+  - Andrej Dvornik
+  - Thomas Erben
+  - Maria Cristina Fortuna
+  - Fedor Getman
+  - Benjamin Giblin
+  - Karl Glazebrook
+  - Henk Hoekstra
+  - Shahab Joudaki
   - Arun Kannawadi
+  - Fabian Köhlinger
+  - Chris Lidman
+  - Lance Miller
+  - Nicola R. Napolitano
+  - David Parkinson
+  - Peter Schneider
+  - Huanyuan Shan
+  - Edwin A. Valentijn
+  - Gijs Verdoes Kleijn
+  - Christian Wolf
 date: '2021-03-01T00:00:00Z'
 doi: '10.1051/0004-6361/202039063'
 
@@ -66,13 +99,13 @@ links:
   - name: ADS
     url: https://ui.adsabs.harvard.edu/abs/2021A&A...646A.140H
 url_pdf: http://arxiv.org/pdf/2007.15632
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+url_code:
+url_dataset:
+url_poster:
+url_project:
+url_slides:
+url_source:
+url_video:
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
