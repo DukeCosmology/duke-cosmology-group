@@ -33,6 +33,10 @@ education:
       institution: Massachusetts Institute of Technology
       year: 2007
 
+awards:
+    - Templeton
+    - DOE
+
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
