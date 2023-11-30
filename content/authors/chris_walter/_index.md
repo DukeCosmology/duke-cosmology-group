@@ -47,9 +47,9 @@ social:
   - icon: mastodon
     icon_pack: fab
     link: https://fediscience.org/@ChrisWalter
-  - icon: google-scholar
+  - icon: orcid
     icon_pack: ai
-    link:
+    link: https://orcid.org/0000-0003-2035-2380
   - icon: github
     icon_pack: fab
     link: https://github.com/cwwalter
