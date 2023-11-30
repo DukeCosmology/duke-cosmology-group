@@ -44,9 +44,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:chris.walter@duke.edu'
-  - icon: twitter
+  - icon: mastodon
     icon_pack: fab
-    link: https://twitter.com/chris_w_walter
+    link: https://fediscience.org/@ChrisWalter
   - icon: google-scholar
     icon_pack: ai
     link:
