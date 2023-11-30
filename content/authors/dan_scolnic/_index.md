@@ -72,15 +72,6 @@ user_groups:
   - Faculty
 ---
 
-Lead Type Ia SN cosmology studies for Pan-STARRS, DES, LSST and WFIRST.  
-
-Awards:
-    - Award1
-      institution: Johns Hopkins University
-      year: 2013
-    - Award2
-      institution: Massachusetts Institute of Technology
-      year: 2007
 
 Lead Type Ia SN cosmology studies for Pan-STARRS, DES, LSST and Roman.
 
