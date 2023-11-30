@@ -34,7 +34,8 @@ education:
       year: 2007
 
 awards:
-    - Templeton
+    - [Templeton]
+    -2023: Cool stuff
     - DOE
 
 # Social/Academic Networking
