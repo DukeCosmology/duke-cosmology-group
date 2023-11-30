@@ -45,6 +45,7 @@ email: ''
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
+---
 
 I am an Enstein Fellow at the Department of Physics, Duke University. 
 
