@@ -10,7 +10,7 @@ last_name: Carreres
 superuser: false
 
 # Role/position
-role: Post-Doc
+role: Researchers
 
 # Organizations/Affiliations
 organizations:
@@ -23,6 +23,7 @@ bio:
 
 interests:
   - Type Ia Supernovae
+  - Roquefort
 
 education:
   courses:
