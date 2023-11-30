@@ -10,11 +10,11 @@ last_name: Carreres
 superuser: false
 
 # Role/position
-role: PhD student
+role: Researchers
 
 # Organizations/Affiliations
 organizations:
-  - name: Centre de Physique des Particules de Marseille, France
+  - name: Duke University
 
     url: ''
 
@@ -23,9 +23,13 @@ bio:
 
 interests:
   - Type Ia Supernovae
+  - Roquefort
 
 education:
   courses:
+    - course: PhD in Astrophysics and Cosmology
+      institution: Aix-Marseille University
+      year: 2023
     - course: MS in Subatomic Physics and Cosmology
       institution: University Grenoble-Alpes
       year: 2020
@@ -37,7 +41,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:carreres@cppm.in2p3.fr'
+    link: 'mailto:bastien.carreres@duke.edu'
   - icon: github
     icon_pack: fab
     link: https://github.com/bastiencarreres
@@ -62,13 +66,9 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Visitors
+  - Researchers
 ---
 
-I have obtained my Master's degree in Subatomic Physics and Cosmology at University Grenoble-Alpes.
-I am now a 3rd year PhD student in Cosmology at Centre de Physique des Particules de Marseille (CPPM) in France, under the supervision of D. Fouchez, B. Racine and J. Bautista.
+I'm a post-doc in the Duke Cosmology group. 
 
-My research focuses on the measurement of the growth rate of structures using Type Ia Supernovae.
-I am mostly involved in the Zwicky Transient Facility (ZTF) but I am also working in the Legacy Survey of Space and Time (LSST) framework within the Dark Energy Science Collaboraration (DESC).
-
-During my PhD I am doing teaching duties as a Graduate Teaching Assistant for the physics departement of Aix-Marseille University (AMU).
+ My research in cosmology focuses on understanding the accelerated expansion of our universe. In particular, I used type Ia supernovae as probes to study the peculiar velocity field and measure the growth rate of structures. I am involved in the Zwicky Transient Facility (ZTF) and in the Legacy Survey of Space and Time (LSST) within the Dark Energy Science Collaboraration (DESC).
