@@ -35,7 +35,7 @@ education:
 
 awards:
     - Templeton
-    -2023: Cool stuff
+    - 2023 Cool stuff
     - DOE
 
 # Social/Academic Networking
