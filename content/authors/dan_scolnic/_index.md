@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dan Scolnic
+title: Kene Anumba
 
 # Full Name (for SEO)
 first_name: Dan
