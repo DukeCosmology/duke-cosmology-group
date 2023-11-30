@@ -10,7 +10,7 @@ last_name: Carreres
 superuser: false
 
 # Role/position
-role: Researchers
+role: Postdoctoral Research Associate
 
 # Organizations/Affiliations
 organizations:
