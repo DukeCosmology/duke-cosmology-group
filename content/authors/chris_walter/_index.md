@@ -44,12 +44,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:chris.walter@duke.edu'
-  - icon: twitter
+  - icon: mastodon
     icon_pack: fab
-    link: https://twitter.com/chris_w_walter
-  - icon: google-scholar
+    link: https://fediscience.org/@ChrisWalter
+  - icon: orcid
     icon_pack: ai
-    link:
+    link: https://orcid.org/0000-0003-2035-2380
   - icon: github
     icon_pack: fab
     link: https://github.com/cwwalter

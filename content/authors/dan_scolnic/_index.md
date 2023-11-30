@@ -33,6 +33,10 @@ education:
       institution: Massachusetts Institute of Technology
       year: 2007
 
+awards:
+    - Templeton
+    - DOE
+
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -68,15 +72,6 @@ user_groups:
   - Faculty
 ---
 
-Lead Type Ia SN cosmology studies for Pan-STARRS, DES, LSST and WFIRST.  
-
-Awards:
-    - Award1
-      institution: Johns Hopkins University
-      year: 2013
-    - Award2
-      institution: Massachusetts Institute of Technology
-      year: 2007
 
 Lead Type Ia SN cosmology studies for Pan-STARRS, DES, LSST and Roman.
 
