@@ -18,7 +18,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Lorem ipsum
+
 
 interests:
   - Cosmology
@@ -68,6 +68,4 @@ user_groups:
   - Faculty
 ---
 
-Lead Type Ia SN cosmology studies for Pan-STARRS, DES, LSST and WFIRST.  Work on new image analysis techniques and finding optical counterparts to gravitational waves.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
+Lead Type Ia SN cosmology studies for Pan-STARRS, DES, LSST and WFIRST.  
