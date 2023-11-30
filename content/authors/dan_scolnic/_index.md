@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Kene Anumba
+title: Dan Scolnic
 
 # Full Name (for SEO)
 first_name: Dan
@@ -34,7 +34,7 @@ education:
       year: 2007
 
 awards:
-    - [Templeton]
+    - Templeton
     -2023: Cool stuff
     - DOE
 
