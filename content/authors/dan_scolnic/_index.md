@@ -33,10 +33,23 @@ education:
       institution: Massachusetts Institute of Technology
       year: 2007
 
+#   Add/remove as many awards below as you like.
+#   Only `title`, `awarder`, and `date` are required.
+#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-    - Templeton
-    - 2023 Cool stuff
-    - DOE
+  - title: Templeton
+    url: 
+    date: '2023-11-25'
+    awarder: Templeton
+    summary: |
+      Prof. Dan Scolnic got an award from Templeton
+  - title: Cool stuff
+    url: 
+    date: '2023-11-25'
+    awarder: DOE
+    summary: |
+      Prof. Dan Scolnic got an award from DOE
+
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
