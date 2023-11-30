@@ -77,3 +77,6 @@ Awards:
     - Award2
       institution: Massachusetts Institute of Technology
       year: 2007
+
+Lead Type Ia SN cosmology studies for Pan-STARRS, DES, LSST and Roman.
+
