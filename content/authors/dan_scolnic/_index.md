@@ -89,5 +89,8 @@ user_groups:
 
 Lead Type Ia SN cosmology studies for Pan-STARRS, DES, LSST and Roman.
 
-<script type="text/javascript" src="https://scholars.duke.edu/widgets/api/v0.9/people/awards/all.js?uri=https://scholars.duke.edu/individual/per5520573&formatting=detailed&style=yes&start=&end="> </script>
+## Grants
+<script type="text/javascript" src="https://scholars.duke.edu/widgets/api/v0.9/people/grants/all.js?uri=https://scholars.duke.edu/individual/per2182132&formatting=detailed&style=yes&start=2019-04-01&end=2057-04-30"> </script>
 
+## Awards
+<script type="text/javascript" src="https://scholars.duke.edu/widgets/api/v0.9/people/awards/all.js?uri=https://scholars.duke.edu/individual/per2182132&formatting=detailed&style=yes&start=2019-04-01&end=2057-04-30"> </script>
