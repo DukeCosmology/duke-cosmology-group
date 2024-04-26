@@ -79,3 +79,8 @@ My research field is Cosmology, the study of origin and evolution of the Univers
 I am interested in answering the questions about the distribution of (dark) matter in the Universe, also known as the large-scale structure and using it to understand the contents (dark matter and dark energy) of the Universe.
 I study the matter distribution using a technique called Weak Gravitational Lensing.
 On a day-to-day basis, I work on image processing pipelines and algorithms that work at raw pixel-level data to extract useful information from millions (soon to be billions) of galaxies namely galaxy fluxes (and colors) and shapes.
+
+<b>Grants</b><br>
+
+<script type="text/javascript" src="https://scholars.duke.edu/widgets/api/v0.9/people/grants/all.js?uri=https://scholars.duke.edu/individual/per5520573&formatting=detailed&style=yes&start=2019-04-01&end=2027-04-30"> </script>
+
