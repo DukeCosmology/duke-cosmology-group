@@ -24,7 +24,7 @@ authors:
   - Karl Glazebrook
   - Henk Hoekstra
   - Shahab Joudaki
-  - **Arun Kannawadi**
+  - <b>Arun Kannawadi</b>
   - Fabian Köhlinger
   - Chris Lidman
   - Lance Miller
