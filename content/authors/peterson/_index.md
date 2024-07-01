@@ -23,7 +23,7 @@ interests:
 education:
   - course: PhD in Physics
     institution: Duke University
-    year: Expected 2025
+    year: 2025
   - course: BS in Physics
     institution: University of Notre Dame
     year: 2019
