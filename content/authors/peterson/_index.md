@@ -21,12 +21,13 @@ interests:
   - Sports
 
 education:
-  - course: PhD in Physics
-    institution: Duke University
-    year: 2025
-  - course: BS in Physics
-    institution: University of Notre Dame
-    year: 2019
+  - courses:
+    - course: PhD in Physics
+      institution: Duke University
+      year: 2025
+    - course: BS in Physics
+      institution: University of Notre Dame
+      year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
