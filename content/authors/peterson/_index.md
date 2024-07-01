@@ -21,7 +21,7 @@ interests:
   - Sports
 
 education:
-  - courses:
+  courses:
     - course: PhD in Physics
       institution: Duke University
       year: 2025
