@@ -7,3 +7,5 @@ title: Chien-Hao Lin
 user_groups:
   - Researchers
 ---
+
+Chien-Hao graduated from Carnegie Mellon University.

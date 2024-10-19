@@ -7,3 +7,5 @@ title: Hye-Yun Park
 user_groups:
   - Researchers
 ---
+
+Hye-Yun is based at Chile working on Rubin Observatory.
