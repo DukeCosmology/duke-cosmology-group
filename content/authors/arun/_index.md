@@ -42,9 +42,12 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+  - icon: house
+    icon_pack: fas
+    link: https://arunkannawadi.github.io
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:arunkannawadi@astro.princeton.edu'
+    link: 'mailto:arun.kannawadi@duke.edu'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/kjarunkj
