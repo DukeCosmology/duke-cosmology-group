@@ -15,7 +15,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio:
 
 interests:
   - Cosmology
@@ -33,7 +33,7 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: user
+  - icon: house
     icon_pack: fas
     link: https://rebeccachen0.github.io
   - icon: envelope
