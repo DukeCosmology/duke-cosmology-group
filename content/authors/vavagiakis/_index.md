@@ -10,7 +10,7 @@ last_name: Vavagiakis
 superuser: true
 
 # Role/position
-role: Assistant Professor (incoming)
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include cosmology and scientific software development.
+bio: My research interests include cosmology and instrumentation.
 
 interests:
   - Cosmology
@@ -71,4 +71,4 @@ user_groups:
   - Faculty
 ---
 
-I’m an NSF Astronomy and Astrophysics Postdoctoral Fellow in the Physics Department at Cornell University. In 2024, I will join the faculty at Duke University as a tenure-track Assistant Professor in the Department of Physics. I will be building a lab and seeking to work with students and postdocs excited about experimental cosmology instrumentation and data analysis, so please get in touch if you’re interested. I work as a part of four collaborations: ACT, CCAT-prime, CMB-S4, and SO. You can learn about each of these efforts by clicking on their name, and you can visit our group webpage here.
+I’m an Assistant Professor at Duke University in the Department of Physics. I’m building a lab and looking to work with students excited about experimental cosmology instrumentation and data analysis, so please get in touch if you’re interested. I work as a part of four collaborations: ACT, CCAT-prime, CMB-S4, and SO.
