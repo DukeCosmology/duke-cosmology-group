@@ -11,7 +11,8 @@ role: Postdoctoral Research Associate
 
 #Organizations/Affiliations
 organizations:
-  -name: Duke University
+  - name: Duke University
+    url: ''
 
 #Short bio
 bio: I have been working for the Vera. C. Rubin Observatory mainly with camera sensors, telescope instrumentations and commissioning.
@@ -21,9 +22,10 @@ interests:
   - Telescope instrumentation
 
 education:
-  - course: PhD in Physics and Astronomy
-    institution: SUNY Stony Brook, New York
-    year: 2019
+  courses:
+    - course: PhD in Physics and Astronomy
+      institution: SUNY Stony Brook, New York
+      year: 2019
 
 #Social/Academic Networking
 social:
@@ -41,4 +43,4 @@ user_groups:
 ---
 
 I am a postdoc at the Department of Physics, Duke University.
-I will be located in La Serena, Chile, to work on commissioining for the [Vera. C. Rubin Observatory](https://rubinobservatory.org).
+I will be located in La Serena, Chile, to work on commissioning for the [Vera. C. Rubin Observatory](https://rubinobservatory.org).
