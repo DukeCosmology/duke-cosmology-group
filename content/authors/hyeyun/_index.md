@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Hye-Yun Park
+title: HyeYun Park
 
 # Full Name
 first_name: HyeYun
@@ -15,11 +15,12 @@ organizations:
     url: ''
 
 #Short bio
-bio: I have been working for the Vera. C. Rubin Observatory mainly with camera sensors, telescope instrumentations and commissioning.
+bio: I have been working for the Vera. C. Rubin Observatory since 2014, mainly with camera sensors, telescope instrumentations, and commissioning.
 
 interests:
   - CCD sensor effects
   - Telescope instrumentation
+  - Commissioning
 
 education:
   courses:
@@ -42,5 +43,5 @@ user_groups:
   - Researchers
 ---
 
-I am a postdoc at the Department of Physics, Duke University.
-I will be located in La Serena, Chile, to work on commissioning for the [Vera. C. Rubin Observatory](https://rubinobservatory.org).
+- HyeYun is a postdoc at the Department of Physics, Duke University.
+- HyeYun will be located in La Serena, Chile, to work on commissioning for the [Vera. C. Rubin Observatory](https://rubinobservatory.org).
