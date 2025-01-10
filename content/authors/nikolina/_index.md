@@ -19,8 +19,11 @@ bio:
 interests:
   - Weak Lensing and Galaxy Clustering Cosmology
   - Cosmological Inference
+  - Combined Probes
   - Systematics Modelling
-  - Gardening, art, The Wire
+  - Data Visualisation
+  - Scientific Coding
+  - Gardening, Art, _The Wire_
 
 education:
   courses:
@@ -48,7 +51,7 @@ social:
   - icon: orcid
     icon_pack: ai
     link: https://orcid.org/0000-0001-7301-6415
-  - icon: ai-inspire
+  - icon: inspire
     icon_pack: ai
     link: https://inspirehep.net/authors/1706125?ui-citation-summary=true
   - icon: globe
@@ -62,8 +65,8 @@ user_groups:
   - Researchers
 ---
 
-I am a cosmologist focusing on astrophysical systematics in weak lensing measurements, exploring their impact on late-time cosmology. My work involves statistical modeling, systematics mitigation, and advancing methods for precision cosmology.
+Nikolina (Niko) Šarčević is a cosmologist specializing in astrophysical systematics in weak lensing measurements, examining their impact on late-time cosmology. Her work encompasses statistical modeling, systematics mitigation, and advancing methods for precision cosmology.
 
-I contribute to the LSST DESC and the NASA Roman Cosmology Project Infrastructure Team (PIT). I focus on cosmological inference and weak lensing analysis.
+She is an active contributor to the LSST Dark Energy Science Collaboration (DESC) and the NASA Roman Cosmology Project Infrastructure Team (PIT), with a focus on cosmological inference and weak lensing analysis.
 
-My previous work includes contributions to the XENON collaboration, where I designed the electric field cage of the XENONnT detector.
+Previously, she contributed to the XENON collaboration, where she played a key role in designing the electric field cage of the XENONnT detector.
