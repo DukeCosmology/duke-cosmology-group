@@ -14,7 +14,7 @@ sections:
       text: |
         <br>
 
-        The **Duke Group** has been a center of excellence for cosmology research, teaching, and practice since its founding in 2018.
+        The **Duke Cosmology Group** has been a center of excellence for cosmology research, teaching, and practice since its founding in 2018.
 
   - block: collection
     content:
