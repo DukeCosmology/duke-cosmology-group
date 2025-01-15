@@ -1,5 +1,5 @@
 ---
-title: Duke undergraduate students recognized for outstanding leadership
+title: Duke undergraduate student recognized for outstanding leadership
 date: 2024-05-16
 ---
 
