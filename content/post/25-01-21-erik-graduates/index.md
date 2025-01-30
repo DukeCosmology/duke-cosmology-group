@@ -1,5 +1,5 @@
 ---
-title: Dr. Erik Peterson is the newly minted graduate from the group.
+title: Dr. Erik Peterson is the newly minted graduate from the group
 date: 2025-01-21
 ---
 
