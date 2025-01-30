@@ -61,9 +61,14 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Graduate Students
+  - Researchers
 ---
 
-I am a graduate student in the Duke Cosmology group expecting to graduate in early 2025.
+Erik Peterson is a postdoctoral research associate in the Duke Cosmology group , having recently graduated in early 2025 from the same institution.
 
-My research focuses on supernova cosmology. I have spent the majority of my time in grad school working on NIR SN analysis as well as peculiar velocities. In the NIR, I have been the lead of the DEHVILS survey, and I have recently begun leading the SAINTS team which will compile and analyze all existing NIR LCs in the literature. With peculiar velocities, I was the first to correct for PVs in a SN analysis as a part of Pantheon+, and I am leading a pilot program to define galaxy groups for SN hosts. Finally, I am also working on constraining dust by analyzing SN color evolution. My work will be both applicable and useful for both LSST and Roman, and I hope to spend my career working on these projects.
+His research focuses on supernova cosmology.
+He has spent the majority of his time in grad school working on NIR SN analysis as well as peculiar velocities.
+In the NIR, he has been the lead of the DEHVILS survey, and he has recently begun leading the SAINTS team which will compile and analyze all existing NIR LCs in the literature.
+With peculiar velocities, he was the first to correct for PVs in a SN analysis as a part of Pantheon+, and he is leading a pilot program to define galaxy groups for SN hosts.
+Finally, he is also working on constraining dust by analyzing SN color evolution.
+His work will be both applicable and useful for both LSST and Roman, and hopes to spend his career working on these projects.
