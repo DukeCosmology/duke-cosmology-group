@@ -86,4 +86,3 @@ On a day-to-day basis, I work on image processing pipelines and algorithms that 
 <b>Grants</b><br>
 
 <script type="text/javascript" src="https://scholars.duke.edu/widgets/api/v0.9/people/grants/all.js?uri=https://scholars.duke.edu/individual/per5520573&formatting=detailed&style=yes&start=2019-04-01&end=2027-04-30"> </script>
-

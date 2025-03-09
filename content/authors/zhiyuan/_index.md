@@ -3,7 +3,7 @@
 title: Zhiyuan Guo
 
 # Full Name (for SEO)
-first_name: Zhiyuan 
+first_name: Zhiyuan
 last_name: Guo
 
 # Role/position
