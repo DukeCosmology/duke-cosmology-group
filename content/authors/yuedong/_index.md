@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yuedong Wang
+title: Yuedong Fang
 
 # Role/position
 role: Postdoctoral Researcher
@@ -10,5 +10,3 @@ role: Postdoctoral Researcher
 user_groups:
   - Researchers
 ---
-
-
