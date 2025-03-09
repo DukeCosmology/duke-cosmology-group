@@ -15,7 +15,7 @@ role: Associate Professor
 # Organizations/Affiliations
 organizations:
   - name: Duke University
-    url: ''
+    url: https://scholars.duke.edu/person/michael.troxel
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include cosmology and weak lensing.
