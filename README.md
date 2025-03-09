@@ -1,48 +1,43 @@
-# [Hugo Research Group Theme](https://github.com/wowchemy/starter-hugo-research-group)
+# [Duke Cosmology Group website](https://cosmology.phy.duke.edu/)
 
-[![Screenshot](./preview.png)](https://wowchemy.com/hugo-themes/)
+This is the source of the collaboratively maintained website of the Duke Cosmology group.
 
-The **Research Group Template** empowers your research group to easily create a beautiful website with a stunning homepage, news, academic publications, events, team profiles, and a contact form.
+## Editing the website
 
-️**Trusted by 250,000+ researchers, educators, and students.** Highly customizable via the integrated **no-code, widget-based Wowchemy page builder**, making every site truly personalized ⭐⭐⭐⭐⭐
+Anyone part of the [DukeCosmology GitHub organization](https://github.com/DukeCosmolog) may edit the website.
+If you are not part of the organization, ask an owner (any of the faculty members) to invite you to the organization first.
 
-[![Get Started](https://img.shields.io/badge/-Get%20started-ff4655?style=for-the-badge)](https://wowchemy.com/hugo-themes/)
-[![Discord](https://img.shields.io/discord/722225264733716590?style=for-the-badge)](https://discord.com/channels/722225264733716590/742892432458252370/742895548159492138)  
-[![Twitter Follow](https://img.shields.io/twitter/follow/wowchemy?label=Follow%20on%20Twitter)](https://twitter.com/wowchemy)
+### Familiarizing with Git workflows
+All edits must be done via pull requests (PRs) to the `main` branch of this repository.
+Edits may be made directly on GitHub or from a local editor.
+If editing locally, follow the steps below:
 
-Easily write technical content with plain text Markdown, LaTeX math, diagrams, RMarkdown, or Jupyter, and import publications from BibTeX.
+```
+git clone https://github.com/DukeCosmolog/duke-cosmology-website.git
+cd duke-cosmology-website
+git checkout -b <your-branch-name>
+# make your edits as needed (see instructions in the next section)
+git add .
+git commit -m "Add <your name> to the website"
+git push -u origin <your-branch-name>
+```
 
-[Check out the latest demo](https://research-group.netlify.app/) of what you'll get in less than 60 seconds, or [view the showcase](https://wowchemy.com/creators/).
+Then, create a PR from your branch to the `main` branch of this repository.
 
-The integrated [**Wowchemy**](https://wowchemy.com) website builder and CMS makes it easy to create a beautiful website for free. Edit your site in the CMS (or your favorite editor), generate it with [Hugo](https://github.com/gohugoio/hugo), and deploy with GitHub or Netlify. Customize anything on your site with widgets, light/dark themes, and language packs.
+If editing on GitHub, click on the pencil icon on the top right of the file you want to edit.
+Make your edits and then click on "Commit changes" at the upper right of the page.
+Then, add a more useful commit message and click on "Propose changes".
 
-- 👉 [**Get Started**](https://wowchemy.com/hugo-themes/)
-- 📚 [View the **documentation**](https://wowchemy.com/docs/)
-- 💬 [Chat with the **Wowchemy research community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- ⬇️ **Automatically import citations from BibTeX** with the [Hugo Academic CLI](https://github.com/wowchemy/hugo-academic-cli)
-- 🐦 Share your new site with the community: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=%23MadeWithWowchemy&src=typed_query)
-- 🗳 [Take the survey and help us improve #OpenSource](https://forms.gle/NioD9VhUg7PNmdCAA)
-- 🚀 [Contribute improvements](https://github.com/wowchemy/wowchemy-hugo-themes/blob/main/CONTRIBUTING.md) or [suggest improvements](https://github.com/wowchemy/wowchemy-hugo-themes/issues)
-- ⬆️ **Updating?** View the [Update Guide](https://wowchemy.com/docs/hugo-tutorials/update/) and [Release Notes](https://github.com/wowchemy/wowchemy-hugo-themes/releases)
+Once the PR is created, it checks if the website builds successfully with your changes.
+Once all the checks have passed, you may click the "Merge pull request" button to merge your changes into the `main` branch.
+You may also request a review from any of the owners (any of the faculty members) before merging (recommended for first time contributors).
 
-## We ask you, humbly, to support this open source movement
+If you are new to Git, we recommend you to read the [GitHub guide](https://guides.github.com/activities/hello-world/) and the [GitHub flow](https://guides.github.com/introduction/flow/).
 
-Today we ask you to defend the open source independence of the Wowchemy website builder and themes 🐧
 
-We're an open source movement that depends on your support to stay online and thriving, but 99.9% of our creators don't give; they simply look the other way.
-
-### [❤️ Click here to become a GitHub Sponsor, unlocking awesome perks such as _exclusive academic templates and widgets_](https://github.com/sponsors/gcushen)
-
-## Demo credits
-
-Please replace the demo images with your own.
-
-- [Female scientist](https://unsplash.com/photos/uVnRa6mOLOM)
-- [2 Coders](https://unsplash.com/photos/kwzWjTnDPLk)
-- [Cafe](https://unsplash.com/photos/RnDGGnMEOao)
-- Blog posts
-  - https://unsplash.com/photos/AndE50aaHn4
-  - https://unsplash.com/photos/OYzbqk2y26c
-- Avatars
-  - https://unsplash.com/photos/5yENNRbbat4
-  - https://unsplash.com/photos/WNoLnJo7tS8
+### Adding yourself to the website
+1. Create a folder under `content/authors/` with your name as the folder name.
+2. Under your folder, add your display picture (optionally) as `avatar.jpg`.
+3. Copy the `_index.md` file from any `content/authors/arun`folder and edit it to add your details.
+Because this is a group website, add your narrative in third person i.e., addressing yourself with your pronouns instead of "I" or "me".
+4. **Most important**: The `user_groups` section must include one (and exactly one) of the following groups: `Faculty`, `Researchers`, `Graduate Students`, `Undergraduates`, `Visitors`, `Alumni` to appear on the website.
