@@ -15,7 +15,7 @@ role: Assistant Research Professor
 # Organizations/Affiliations
 organizations:
   - name: Duke University
-    url: ''
+    url: https://scholars.duke.edu/person/arun.kannawadi
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include cosmology and scientific software development.

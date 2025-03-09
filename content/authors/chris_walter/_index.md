@@ -15,7 +15,7 @@ role: Professor
 # Organizations/Affiliations
 organizations:
   - name: Duke University
-    url: ''
+    url: https://scholars.duke.edu/person/chris.walter
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include cosmology.

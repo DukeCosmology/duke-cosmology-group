@@ -15,7 +15,7 @@ role: Associate Professor
 # Organizations/Affiliations
 organizations:
   - name: Duke University
-    url: ''
+    url: https://scholars.duke.edu/person/dscolnic
 
 # Short bio (displayed in user profile at end of posts)
 
