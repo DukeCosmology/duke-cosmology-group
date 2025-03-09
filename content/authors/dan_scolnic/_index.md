@@ -38,13 +38,13 @@ education:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: Templeton
-    url: 
+    url:
     date: '2023-11-25'
     awarder: Templeton
     summary: |
       Prof. Dan Scolnic got an award from Templeton
   - title: Cool stuff
-    url: 
+    url:
     date: '2023-11-25'
     awarder: DOE
     summary: |

@@ -23,13 +23,13 @@ bio: I'm interested in transients
 interests:
   - Cosmology
   - Type 1a Supernovae
-    
+
 
 education:
   courses:
     - course: Expected PhD in Physics (Cosmology)
       institution: Duke University, Durham
-      year: 
+      year:
     - course: Physics
       institution: University of Nigeria, Nsukka
       year: 2018

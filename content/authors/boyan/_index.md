@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-    - course: Undergrad in Physics 
+    - course: Undergrad in Physics
       institution: Carnegie Mellon University, Pittsburgh
       year: 2021
 
@@ -55,4 +55,3 @@ user_groups:
 
 I am a Graduate Student at the Department of Physics, Duke University.
 I am a member of the Dark Energy Survery [DES](https://rubinobservatory.org) project and coleading the weak lensing photometric redshift group toward Y6 results.
-

@@ -69,6 +69,6 @@ user_groups:
   - Researchers
 ---
 
-I'm a post-doc in the Duke Cosmology group. 
+I'm a post-doc in the Duke Cosmology group.
 
  My research in cosmology focuses on understanding the accelerated expansion of our universe. In particular, I used type Ia supernovae as probes to study the peculiar velocity field and measure the growth rate of structures. I am involved in the Zwicky Transient Facility (ZTF) and in the Legacy Survey of Space and Time (LSST) within the Dark Energy Science Collaboraration (DESC).

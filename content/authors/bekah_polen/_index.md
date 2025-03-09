@@ -13,7 +13,7 @@ role: PhD Student
 organizations:
   - name: Duke University
     url: 'https://scholars.duke.edu/person/bekah.polen'
-    
+
 interests:
   - Cosmology
   - Weak gravitational lensing
@@ -24,7 +24,7 @@ education:
     - course: Bachelor of Science in Physics (minor in Astrophysics and Mathematics)
       institution: Randolph-Macon College
       year: 2022
-      
+
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -40,4 +40,4 @@ user_groups:
   - Graduate Students
 ---
 
-I am a PhD student in the Cosmology Group at Duke University currently working on the active optics for the LSST Camera. 
+I am a PhD student in the Cosmology Group at Duke University currently working on the active optics for the LSST Camera.
