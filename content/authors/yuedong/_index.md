@@ -19,7 +19,7 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio:
-I am involved in the Roman Cosmology with High Latitude Imaging Survey Project Infrastructure Team (HLIS PIT), as well as Science Ground Segment of ESA Euclid mission.
+  I am involved in the Roman Cosmology with High Latitude Imaging Survey Project Infrastructure Team (HLIS PIT), as well as Science Ground Segment of ESA Euclid mission.
 
 interests:
   - Cosmology
