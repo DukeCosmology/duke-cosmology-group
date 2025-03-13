@@ -19,15 +19,23 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio:
+I am involved in the Roman Cosmology with High Latitude Imaging Survey Project Infrastructure Team (HLIS PIT), as well as Science Ground Segment of ESA Euclid mission.
 
 interests:
   - Cosmology
+  - Imaging simulations
+  - Observational methodologies
+  - Instruments
+  - Large scale structures
 
 education:
   courses:
     - course: PhD in Physics
-      institution:
-      year:
+      institution: University of Pennsylvania
+      year: 2013-2018
+    - course: BS in Physics
+      institution: Purdue University
+      year: 2009-2013
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -39,7 +47,7 @@ social:
     link:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:'
+    link: 'yuedong.fang@duke.edu'
   - icon: github
     icon_pack: fab
     link:
