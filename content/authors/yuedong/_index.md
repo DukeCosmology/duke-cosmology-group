@@ -46,7 +46,7 @@ social:
     link:
   - icon: envelope
     icon_pack: fas
-    link: 'yuedong.fang@duke.edu'
+    link: 'mailto:yuedong.fang@duke.edu'
   - icon: github
     icon_pack: fab
     link:
