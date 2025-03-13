@@ -18,8 +18,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio:
-  I am involved in the Roman Cosmology with High Latitude Imaging Survey Project Infrastructure Team (HLIS PIT), as well as Science Ground Segment of ESA Euclid mission.
+bio: I am involved in the Roman Cosmology with High Latitude Imaging Survey Project Infrastructure Team (HLIS PIT), the OpenUniverse, as well as Science Ground Segment of ESA Euclid mission.
 
 interests:
   - Cosmology
@@ -47,7 +46,7 @@ social:
     link:
   - icon: envelope
     icon_pack: fas
-    link: 'yuedong.fang@duke.edu'
+    link: 'mailto:yuedong.fang@duke.edu'
   - icon: github
     icon_pack: fab
     link:
@@ -68,3 +67,5 @@ highlight_name: false
 user_groups:
   - Researchers
 ---
+
+I am involved in the [Roman Cosmology with High Latitude Imaging Survey Project Infrastructure Team (Roman HLIS PIT)](https://roman-hlis-cosmology.caltech.edu/), the OpenUniverse, as well as [Science Ground Segment (SGS)](https://www.euclid-ec.org/public/data/ground-segment/) of the [ESA Euclid mission](https://www.cosmos.esa.int/web/euclid).
