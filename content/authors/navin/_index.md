@@ -19,7 +19,7 @@ bio: My eventual research goal is to give a fair attempt at solving least one bi
 interests:
   - Gravitational lensing
   - Large Scale Structure and Cosmology
-  - Statistics 
+  - Statistics
   - Coding
   - Cricket, Table Tennis, Flute
 
@@ -42,7 +42,7 @@ education:
 social:
 #  - icon: house
 #    icon_pack: fas
-#    link: 
+#    link:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:nlc38@duke.edu'
@@ -50,7 +50,7 @@ social:
     icon_pack: fab
     link: https://github.com/0Navin0
   - icon: linkedin
-    icon_pack: fab 
+    icon_pack: fab
     link: https://www.linkedin.com/in/navin-chaurasiya-b44456b2
   - icon: orcid
     icon_pack: ai
