@@ -14,8 +14,7 @@ organizations:
   - name: Duke University
 
 # Short bio (displayed in user profile at end of posts)
-bio: My eventual research goal is to give a fair attempt at solving least one big research problem in physics using mathematical/computational techniques and tools.
-Currently I'm pursuing this cause via the approach of data science in Astronomy, Astrophysics and Cosmology.
+bio: My eventual research goal is to give a fair attempt at solving at least one big research problem in physics using mathematical/computational techniques and tools. Currently I'm pursuing this cause via the approach of data science in Astronomy, Astrophysics and Cosmology.
 
 interests:
   - Gravitational lensing
