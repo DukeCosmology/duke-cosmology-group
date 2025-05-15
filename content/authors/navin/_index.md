@@ -14,7 +14,8 @@ organizations:
   - name: Duke University
 
 # Short bio (displayed in user profile at end of posts)
-bio: My eventual research goal is to give a fair attempt at solving least one big research problem in physics using mathematical/computational techniques and tools. Currently I'm pursuing this cause via the approach of data science in Astronomy, Astrophysics and Cosmology.
+bio: My eventual research goal is to give a fair attempt at solving least one big research problem in physics using mathematical/computational techniques and tools. 
+Currently I'm pursuing this cause via the approach of data science in Astronomy, Astrophysics and Cosmology.
 
 interests:
   - Gravitational lensing
@@ -25,8 +26,8 @@ interests:
 
 education:
   courses:
-    - course: PhD in Physics (Astronomy \& Astrophysics)
-      institution: Inter-University Centre for Astronomy \& Astrophysics, Pune
+    - course: PhD in Physics (Astronomy & Astrophysics)
+      institution: Inter-University Centre for Astronomy & Astrophysics, Pune
       year: 2024
     - course: MSc in Physics
       institution: Indian Institute of Technology, Guwahati
@@ -74,8 +75,13 @@ user_groups:
   - Researchers
 ---
 
-I am a postdoc associate at the department of Physics, Duke University. My current research interests broadly fall in the domain of Large Scale Structure (LSS) and Cosmology. More specifically, I am interested in multiprobe joint analysis of LSS, assembly bias of galaxies, strong lensing of galaxies and type-Ia supernovae.
+I am a postdoctoral associate at the department of Physics, Duke University. 
+My current research interests broadly fall in the domain of Large Scale Structure (LSS) and Cosmology. 
+More specifically, I am interested in multiprobe joint analysis of LSS, assembly bias of galaxies, strong lensing of galaxies and type-Ia supernovae.
 
-My expertise is to use the technique of weak gravitational lensing to observationally quantify the amount and distribution of dark matter in galaxies. These observations allow me to constrain phenomenological models of connection between galaxies and their host dark-matter halos. I also focus on how robust such inferences are against the systematic and statistical uncertainties in the derived galaxy properties. I have previously worked on galaxy-halo connection of HSC (deepest stage III wide area imaging survey) photometric galaxies.
+My expertise is to use the technique of weak gravitational lensing to observationally quantify the amount and distribution of dark matter in galaxies. 
+These observations allow me to constrain phenomenological models of connection between galaxies and their host dark-matter halos. 
+I also focus on how robust such inferences are against the systematic and statistical uncertainties in the derived galaxy properties. 
+I have previously worked on galaxy-halo connection of HSC (deepest stage III wide area imaging survey) photometric galaxies.
 
 In my current role, I am a member of the LSST Dark Energy Science Collaboration (DESC) and NASA's Roman High Lattitude Imaging Survey (HLIS) Cosmology Project Infrastructure Team (PIT).
