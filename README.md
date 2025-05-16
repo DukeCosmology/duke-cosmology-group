@@ -13,7 +13,7 @@ Edits may be made directly on GitHub or from a local editor.
 If editing locally, follow the steps below:
 
 ```
-git clone https://github.com/DukeCosmolog/duke-cosmology-website.git
+git clone https://github.com/DukeCosmology/duke-cosmology-group.git
 cd duke-cosmology-website
 git checkout -b <your-branch-name>
 # make your edits as needed (see instructions in the next section)
