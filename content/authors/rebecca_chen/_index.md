@@ -23,6 +23,9 @@ interests:
 
 education:
   courses:
+    - course: PhD in Physics
+      institution: Duke University
+      year: 2025
     - course: B.S. in Astronomy & Astrophysics
       institution: University of Chicago
       year: 2019
@@ -57,5 +60,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Graduate Students
+  - Alumni
 ---
+
+Rebecca Chen went on to Kavli Institute of Particle physics And Cosmology (KIPAC) at Stanford/SLAC with a fellowship after graduation.
