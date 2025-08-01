@@ -7,7 +7,7 @@ first_name: Erik
 last_name: Peterson
 
 # Role/position
-role: PhD Candidate
+role: Postdoctoral Research Associate
 
 # Organizations/Affiliations
 organizations:
@@ -61,10 +61,11 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Alumni
 ---
 
-Erik Peterson is a postdoctoral research associate in the Duke Cosmology group , having recently graduated in early 2025 from the same institution.
+Erik Peterson had a brief stint as postdoctoral research associate in the Duke Cosmology group, having recently graduated in early 2025 from the same institution.
+He left Duke to join University of Michigan as one of the [Michigan Society of Fellows](https://societyoffellows.umich.edu/postdoctoral-fellows/announcing-the-fall-2025-cohort-of-the-michigan-society-of-fellows/).
 
 His research focuses on supernova cosmology.
 He has spent the majority of his time in grad school working on NIR SN analysis as well as peculiar velocities.
