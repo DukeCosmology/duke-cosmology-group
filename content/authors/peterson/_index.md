@@ -65,7 +65,7 @@ user_groups:
 ---
 
 Erik Peterson had a brief stint as postdoctoral research associate in the Duke Cosmology group, having recently graduated in early 2025 from the same institution.
-He left Duke to join University of Michigan as one of the [Michigan Society of Fellows](https://societyoffellows.umich.edu/postdoctoral-fellows/announcing-the-fall-2025-cohort-of-the-michigan-society-of-fellows/).
+He left Duke to join the University of Michigan as an Assistant Professor in the Physics Department and Postdoctoral Fellow in the [Michigan Society of Fellows](https://societyoffellows.umich.edu/postdoctoral-fellows/announcing-the-fall-2025-cohort-of-the-michigan-society-of-fellows/).
 
 His research focuses on supernova cosmology.
 He has spent the majority of his time in grad school working on NIR SN analysis as well as peculiar velocities.
