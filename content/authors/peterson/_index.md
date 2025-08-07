@@ -65,11 +65,11 @@ user_groups:
 ---
 
 Erik Peterson had a brief stint as postdoctoral research associate in the Duke Cosmology group, having recently graduated in early 2025 from the same institution.
-He left Duke to join University of Michigan as one of the [Michigan Society of Fellows](https://societyoffellows.umich.edu/postdoctoral-fellows/announcing-the-fall-2025-cohort-of-the-michigan-society-of-fellows/).
+He left Duke to join the University of Michigan as an Assistant Professor in the Physics Department and Postdoctoral Fellow in the [Michigan Society of Fellows](https://societyoffellows.umich.edu/postdoctoral-fellows/announcing-the-fall-2025-cohort-of-the-michigan-society-of-fellows/).
 
 His research focuses on supernova cosmology.
 He has spent the majority of his time in grad school working on NIR SN analysis as well as peculiar velocities.
 In the NIR, he has been the lead of the DEHVILS survey, and he has recently begun leading the SAINTS team which will compile and analyze all existing NIR LCs in the literature.
 With peculiar velocities, he was the first to correct for PVs in a SN analysis as a part of Pantheon+, and he is leading a pilot program to define galaxy groups for SN hosts.
 Finally, he is also working on constraining dust by analyzing SN color evolution.
-His work will be both applicable and useful for both LSST and Roman, and hopes to spend his career working on these projects.
+His work will be both applicable and useful for both LSST and Roman, and he hopes to spend his career working on these projects.
