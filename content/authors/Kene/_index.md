@@ -44,10 +44,10 @@ social:
     link: 'mailto:kene.anumba@duke.edu'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/kjarunkj
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=QoX9bu8AAAAJ
+    link: https://twitter.com/KeneAnumba
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/kene-anumba-8480171a5
   - icon: github
     icon_pack: fab
     link: https://github.com/keneAnumba
