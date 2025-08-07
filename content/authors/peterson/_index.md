@@ -72,4 +72,4 @@ He has spent the majority of his time in grad school working on NIR SN analysis 
 In the NIR, he has been the lead of the DEHVILS survey, and he has recently begun leading the SAINTS team which will compile and analyze all existing NIR LCs in the literature.
 With peculiar velocities, he was the first to correct for PVs in a SN analysis as a part of Pantheon+, and he is leading a pilot program to define galaxy groups for SN hosts.
 Finally, he is also working on constraining dust by analyzing SN color evolution.
-His work will be both applicable and useful for both LSST and Roman, and hopes to spend his career working on these projects.
+His work will be both applicable and useful for both LSST and Roman, and he hopes to spend his career working on these projects.
