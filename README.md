@@ -4,7 +4,7 @@ This is the source of the collaboratively maintained website of the Duke Cosmolo
 
 ## Editing the website
 
-Anyone part of the [DukeCosmology GitHub organization](https://github.com/DukeCosmolog) may edit the website.
+Anyone part of the [DukeCosmology GitHub organization](https://github.com/DukeCosmology) may edit the website.
 If you are not part of the organization, ask an owner (any of the faculty members) to invite you to the organization first.
 
 ### Familiarizing with Git workflows
@@ -17,7 +17,7 @@ git clone https://github.com/DukeCosmology/duke-cosmology-group.git
 cd duke-cosmology-website
 git checkout -b <your-branch-name>
 # make your edits as needed (see instructions in the next section)
-git add .
+git add -u
 git commit -m "Add <your name> to the website"
 git push -u origin <your-branch-name>
 ```
@@ -38,6 +38,6 @@ If you are new to Git, we recommend you to read the [GitHub guide](https://guide
 ### Adding yourself to the website
 1. Create a folder under `content/authors/` with your name as the folder name.
 2. Under your folder, add your display picture (optionally) as `avatar.jpg`.
-3. Copy the `_index.md` file from any `content/authors/arun`folder and edit it to add your details.
+3. Copy the `_index.md` file from any other author folder (e.g., `content/authors/arun`) and edit it to add your details.
 Because this is a group website, add your narrative in third person i.e., addressing yourself with your pronouns instead of "I" or "me".
 4. **Most important**: The `user_groups` section must include one (and exactly one) of the following groups: `Faculty`, `Researchers`, `Graduate Students`, `Undergraduates`, `Visitors`, `Alumni` to appear on the website.
