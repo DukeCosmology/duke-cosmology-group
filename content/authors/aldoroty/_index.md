@@ -69,5 +69,6 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Alumni
 ---
+Lauren went on to become an Assistant Research Scientist at UMBC/NASA GSFC in January 2026.
