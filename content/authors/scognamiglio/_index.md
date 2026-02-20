@@ -77,4 +77,3 @@ user_groups:
 
 Diana Scognamiglio is an observational cosmologist with expertise in large-scale data analysis and image processing using both space- and ground-based observatories. Her work focuses on weak gravitational lensing, spectroscopy, ultra–high-resolution mass mapping, and the development of algorithms and pipelines for scientific data analysis, including deep learning–based simulations for precision cosmology. She also studies the formation and evolution of ultra-compact massive galaxies.
 She is actively involved in the Euclid mission, co-leads the gravitational lensing working group within the COSMOS collaboration, and is a member of the NASA Roman Cosmology Project Infrastructure Team (PIT).
-
