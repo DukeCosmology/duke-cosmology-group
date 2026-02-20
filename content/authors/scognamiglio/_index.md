@@ -15,12 +15,13 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Diana works on compact massive galaxies and on constructing mass maps with weak lensing.
+bio: Diana works on mapping dark matter with weak gravitational lensing and exploring the formation of ultra-compact massive galaxies.
 
 interests:
   - Weak gravitational lensing
   - Dark matter mass maps
-  - Compact massive galaxies
+  - Ultra-compact massive galaxies
+  - Deep generative models
 
 education:
   courses:
@@ -74,4 +75,6 @@ user_groups:
 
 ---
 
-Diana works with data from Euclid and JWST.
+Diana Scognamiglio is an observational cosmologist with expertise in large-scale data analysis and image processing using both space- and ground-based observatories. Her work focuses on weak gravitational lensing, spectroscopy, ultra–high-resolution mass mapping, and the development of algorithms and pipelines for scientific data analysis, including deep learning–based simulations for precision cosmology. She also studies the formation and evolution of ultra-compact massive galaxies.
+She is actively involved in the Euclid mission, co-leads the gravitational lensing working group within the COSMOS collaboration, and is a member of the NASA Roman Cosmology Project Infrastructure Team (PIT).
+
