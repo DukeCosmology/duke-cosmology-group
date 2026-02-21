@@ -10,7 +10,7 @@ last_name: Fang
 superuser: true
 
 # Role/position
-role: Postdoctoral Researcher
+role: Postdoctoral Associate
 
 # Organizations/Affiliations
 organizations:

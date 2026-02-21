@@ -10,7 +10,7 @@ last_name: Aldoroty
 superuser: true
 
 # Role/position
-role: Postdoctoral Research Associate
+role: Postdoctoral Associate
 
 # Organizations/Affiliations
 organizations:

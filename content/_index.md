@@ -62,7 +62,7 @@ sections:
       text: |
         We are always looking for talented students and postdocs to join our group.
         If you are interested in joining as a student, please apply to the [Duke Physics graduate program](https://physics.duke.edu/graduate/prospective-students/admissions).
-        If you are interested in joining as a postdoctoral researcher, keep an eye out on the [AAS jobs website](https://aas.org/jobregister?q=Duke).
+        If you are interested in joining as a postdoctoral associate, keep an eye out on the [AAS jobs website](https://aas.org/jobregister?q=Duke).
 
         {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
     design:

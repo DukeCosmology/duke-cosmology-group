@@ -7,7 +7,7 @@ first_name: Nikolina
 last_name: Sarcevic
 
 # Role/position
-role: Postdoctoral Research Associate
+role: Postdoctoral Associate
 
 # Organizations/Affiliations
 organizations:

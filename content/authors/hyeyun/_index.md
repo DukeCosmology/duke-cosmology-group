@@ -7,7 +7,7 @@ first_name: HyeYun
 last_name: Park
 
 #Role/position
-role: Postdoctoral Research Associate
+role: Postdoctoral Associate
 
 #Organizations/Affiliations
 organizations:
@@ -43,5 +43,5 @@ user_groups:
   - Researchers
 ---
 
-- HyeYun is a postdoc at the Department of Physics, Duke University.
+- HyeYun is a postdoctoral associate at the Department of Physics, Duke University.
 - HyeYun will be located in La Serena, Chile, to work on commissioning for the [Vera. C. Rubin Observatory](https://rubinobservatory.org).
