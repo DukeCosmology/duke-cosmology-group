@@ -7,7 +7,7 @@ first_name: Navin
 last_name: Chaurasiya
 
 # Role/position
-role: Postdoctoral Research Associate
+role: Postdoctoral Associate
 
 # Organizations/Affiliations
 organizations:

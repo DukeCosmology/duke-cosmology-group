@@ -62,7 +62,8 @@ sections:
       text: |
         We are always looking for talented students and postdocs to join our group.
         If you are interested in joining as a student, please apply to the [Duke Physics graduate program](https://physics.duke.edu/graduate/prospective-students/admissions).
-        If you are interested in joining as a postdoctoral researcher, keep an eye out on the [AAS jobs website](https://aas.org/jobregister?q=Duke).
+        If you are interested in joining as a postdoctoral associate, keep an eye out on the [AAS jobs website](https://aas.org/jobregister?q=Duke).
+        We also encourage applicants to the [NASA Hubble Fellowship Programs (NHFP)](https://www.stsci.edu/stsci-research/fellowships/nasa-hubble-fellowship-program) to choose Duke as the host institutions, and contact the faculty member closely associated with your research interest to strengthen your application.
 
         {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
     design:
