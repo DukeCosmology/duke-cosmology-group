@@ -65,7 +65,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Alumni
 ---
 
-I am involved in the [Roman Cosmology with High Latitude Imaging Survey Project Infrastructure Team (Roman HLIS PIT)](https://roman-hlis-cosmology.caltech.edu/), the OpenUniverse, as well as [Science Ground Segment (SGS)](https://www.euclid-ec.org/public/data/ground-segment/) of the [ESA Euclid mission](https://www.cosmos.esa.int/web/euclid).
+Yuedong was involved in the [Roman Cosmology with High Latitude Imaging Survey Project Infrastructure Team (Roman HLIS PIT)](https://roman-hlis-cosmology.caltech.edu/), the OpenUniverse, as well as on the [Science Ground Segment (SGS)](https://www.euclid-ec.org/public/data/ground-segment/) of the [ESA Euclid mission](https://www.cosmos.esa.int/web/euclid).
+He now works in the tech industry.
