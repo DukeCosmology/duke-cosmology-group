@@ -66,9 +66,9 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Alumni
 ---
 
-I'm a post-doc in the Duke Cosmology group.
+Bastein was a post-doc in the Duke Cosmology group, and moved to Oxford University in October 2026 as a Marie Curie fellow.
 
- My research in cosmology focuses on understanding the accelerated expansion of our universe. In particular, I used type Ia supernovae as probes to study the peculiar velocity field and measure the growth rate of structures. I am involved in the Zwicky Transient Facility (ZTF) and in the Legacy Survey of Space and Time (LSST) within the Dark Energy Science Collaboraration (DESC).
+His research in cosmology focuses on understanding the accelerated expansion of our universe. In particular, he uses type Ia supernovae as probes to study the peculiar velocity field and measure the growth rate of structures. He is involved in the Zwicky Transient Facility (ZTF) and in the Legacy Survey of Space and Time (LSST) within the Dark Energy Science Collaboration (DESC).
