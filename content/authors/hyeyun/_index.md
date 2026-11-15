@@ -40,8 +40,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Alumni
 ---
 
-- HyeYun is a postdoctoral associate at the Department of Physics, Duke University.
-- HyeYun will be located in La Serena, Chile, to work on commissioning for the [Vera. C. Rubin Observatory](https://rubinobservatory.org).
+- HyeYun was a postdoctoral associate at the Department of Physics, Duke University, but located in La Serena, Chile, to work on commissioning for the [Vera. C. Rubin Observatory](https://rubinobservatory.org).
